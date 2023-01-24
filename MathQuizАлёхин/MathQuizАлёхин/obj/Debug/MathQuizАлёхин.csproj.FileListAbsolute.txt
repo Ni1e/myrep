@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\bin\Debug\MathQuizАлёхин.exe.config
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\bin\Debug\MathQuizАлёхин.exe
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\bin\Debug\MathQuizАлёхин.pdb
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\obj\Debug\MathQuizАлёхин.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\obj\Debug\MathQuizАлёхин.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\obj\Debug\MathQuizАлёхин.Form1.resources
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\obj\Debug\MathQuizАлёхин.Properties.Resources.resources
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\obj\Debug\MathQuizАлёхин.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\obj\Debug\MathQuizАлёхин.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\obj\Debug\MathQuizАлёхин.exe
+C:\Users\student\Desktop\Алёхин 23ИС\MathQuizАлёхин\MathQuizАлёхин\obj\Debug\MathQuizАлёхин.pdb
