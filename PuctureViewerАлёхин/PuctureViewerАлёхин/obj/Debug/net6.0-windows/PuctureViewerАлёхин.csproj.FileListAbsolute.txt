@@ -1,0 +1,34 @@
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\bin\Debug\net6.0-windows\PuctureViewerАлёхин.exe
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\bin\Debug\net6.0-windows\PuctureViewerАлёхин.deps.json
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\bin\Debug\net6.0-windows\PuctureViewerАлёхин.runtimeconfig.json
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\bin\Debug\net6.0-windows\PuctureViewerАлёхин.dll
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\bin\Debug\net6.0-windows\PuctureViewerАлёхин.pdb
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.Form1.resources
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.csproj.GenerateResource.cache
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.AssemblyInfo.cs
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.dll
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\refint\PuctureViewerАлёхин.dll
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.pdb
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.genruntimeconfig.cache
+C:\Users\student\Desktop\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\ref\PuctureViewerАлёхин.dll
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\bin\Debug\net6.0-windows\PuctureViewerАлёхин.exe
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\bin\Debug\net6.0-windows\PuctureViewerАлёхин.deps.json
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\bin\Debug\net6.0-windows\PuctureViewerАлёхин.runtimeconfig.json
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\bin\Debug\net6.0-windows\PuctureViewerАлёхин.dll
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\bin\Debug\net6.0-windows\PuctureViewerАлёхин.pdb
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.Form1.resources
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.AssemblyInfo.cs
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.dll
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\refint\PuctureViewerАлёхин.dll
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.pdb
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\PuctureViewerАлёхин.genruntimeconfig.cache
+C:\Users\student\Desktop\Алёхин 23ИС\PuctureViewerАлёхин\PuctureViewerАлёхин\obj\Debug\net6.0-windows\ref\PuctureViewerАлёхин.dll
